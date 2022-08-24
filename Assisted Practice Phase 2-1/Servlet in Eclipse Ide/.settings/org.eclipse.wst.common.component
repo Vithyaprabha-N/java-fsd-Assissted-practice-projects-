@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?><project-modules id="moduleCoreId" project-version="1.5.0">
+    <wb-module deploy-name="Servlet in Eclipse Ide">
+        <wb-resource deploy-path="/" source-path="/src/main/webapp" tag="defaultRootSource"/>
+        <wb-resource deploy-path="/WEB-INF/classes" source-path="/src/main/java"/>
+        <property name="context-root" value="Servlet_in_Eclipse_Ide"/>
+        <property name="java-output-path" value="/Servlet in Eclipse Ide/build/classes"/>
+    </wb-module>
+</project-modules>
